@@ -1,0 +1,14 @@
+Company,Keyword,Total_Mentions,Positive_Tone_Count,Negative_Tone_Count,Positivity_Ratio
+Ahold Delhaize,Scope 3,115,8,19,0.3
+JDE Peet's,deforestation,109,11,17,0.39
+JDE Peet's,Scope 3,61,6,10,0.38
+Ahold Delhaize,deforestation,43,6,5,0.55
+Royal FrieslandCampina NV,deforestation,38,7,5,0.58
+JDE Peet's,circular economy,33,6,4,0.6
+JDE Peet's,regenerative agriculture,30,12,4,0.75
+Royal FrieslandCampina NV,Scope 3,28,3,5,0.38
+Ahold Delhaize,regenerative agriculture,12,7,1,0.88
+Royal FrieslandCampina NV,regenerative agriculture,10,3,3,0.5
+Ahold Delhaize,circular economy,6,3,3,0.5
+Ahold Delhaize,fair trade,1,0,1,0.0
+Royal FrieslandCampina NV,circular economy,1,0,1,0.0
