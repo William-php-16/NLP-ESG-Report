@@ -44,7 +44,7 @@ The three companies were chosen because they sit at different points of the same
 
 ```
 ESG Project/
-├── Data Raw/               ← Source annual report PDFs
+├── Data RAW source/        ← Source annual report PDFs
 ├── Data Clean/             ← Aggregated CSVs for analysis
 ├── Output/                 ← NLP results, keyword CSVs, report, charts
 │   └── Visual Figures/     ← Interactive HTML charts
